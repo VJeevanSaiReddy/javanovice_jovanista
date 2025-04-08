@@ -1,0 +1,32 @@
+{
+    "name": "The Food Place",
+    "location": "Downtown",
+    "menu": [
+        {
+            "category": "Starters",
+            "items": [
+                {
+                    "price": 5.99,
+                    "name": "Spring Rolls"
+                },
+                {
+                    "price": 3.99,
+                    "name": "Garlic Bread"
+                }
+            ]
+        },
+        {
+            "category": "Main Course",
+            "items": [
+                {
+                    "price": 11.99,
+                    "name": "Margherita Pizza"
+                },
+                {
+                    "price": 8.99,
+                    "name": "Veg Burger"
+                }
+            ]
+        }
+    ]
+}
